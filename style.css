@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+     background-color: #FFD273;
+}
+
+header{
+   background-color: #FFC140; 
+   padding: 30px;
+}
+
+.link-header{
+    text-decoration: none;
+    background-color: #6D89D5;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.link-header:hover{
+    font-weight: bolder;
+    box-shadow:3px 5px 10px black;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.social{
+    padding: 10px;
+}
